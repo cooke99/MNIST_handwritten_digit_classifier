@@ -1,0 +1,8 @@
+sklearn
+numpy
+pandas
+matplotlib
+joblib
+csv
+tkinter
+turtle
